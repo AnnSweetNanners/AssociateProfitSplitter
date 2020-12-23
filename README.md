@@ -21,10 +21,11 @@ remix.ethereum.org
 ![Deploy](Screenshots/Deploy.png)
 
 > Step Four - Deposit funds to the contract to transfer to associates.
-![Depost](Screenshots/Deposit.png)
+![Deposit](Screenshots/Deposit.png)
 
 > Step Five - Verify the funds have been transferred using Ganache.
 
     > Before Executing the Contract
-
+![Before Balance](Screenshots/BeginningBalance.png)
     > After Executing the Contract
+![After Balance](Screenshots/Ganache-confirm-deposits.png)
